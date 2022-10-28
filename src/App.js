@@ -19,7 +19,7 @@ const App=()=> {
   //fakestore();
    return(
     <>
-    <h2> aastey backend assignment  </h2>
+    <h2>  backend assignment  </h2>
     <div className="container">
       {fake.map((values) => {
         return (
